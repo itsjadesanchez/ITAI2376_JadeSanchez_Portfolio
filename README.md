@@ -1,0 +1,5 @@
+This portfolio is a record of all the tasks I completed during the course ITAI2376 to understand various principles and practices related to artificial intelligence. In Detail, some of these modules include Neural Networks and Deep Learning, AI model deployment on AWS as well as AI Virtualization based practical's on Sklillable Platforms.
+
+Thus, the repository is designed in a way to ensure it is easily navigable. each folder contains comprehensive notes, code, along with diagrams and reports that belongs to certain assignments and laboratories. In this course, I have managed to learn python programming, AWS SageMaker, Sklillable labs, and using GitHub and apply them practically, also I have learned about CNN in Deep learning, Cloud AI services, and further practical implementation of these concepts this semesters.
+
+It has equipped with the basic knowledge of Artificial Intelligence and made me more confident and ready to take up more advanced projects, research or professional level roles in the advancing field of Artificial Intelligence.
